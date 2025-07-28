@@ -173,7 +173,7 @@ The dashboard enables users to filter data by department, state, job title, and 
 - 📍 **State**: Most employees are located in Ohio.  
 - 📈 **Growth**: Company has seen steady net employee growth over the years.  
 - 🧾 **Tenure by Department**: Sales and Marketing show the longest average tenure; Legal, Services and etc. have the shortest.
-- 
+
 
 ## 👨‍💻 Author
 
